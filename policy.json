@@ -4,6 +4,10 @@
     "description":"The security of Personal is important to us,but we should understand that over internet or any methods the security level is 100%. In this app we implement firebase in order to store your personal info."
       
     },
+    {
+      "topic": "Registration",
+    "description":" In order to register in the app you simply require to add youir name,email,phone,and password . if all the requirements meets the minimum condidion such as user email and name should not be already exist, password should be more than or equal to eight digit, phone number should be of integer,etc. then you can create your account."
+    },
     { "topic": "Log Data",
     "description":" All the login data are stored in firbase database in order to authenticate"
     
