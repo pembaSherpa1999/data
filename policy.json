@@ -1,5 +1,5 @@
 {
-  "rules": [
+  "policy": [
     {"topic": "Security",
     "description":"The security of Personal is important to us,but we should understand that over internet or any methods the security level is 100%. In this app we implement firebase in order to store your personal info."
       
@@ -11,10 +11,6 @@
     { "topic": "Log Data",
     "description":" All the login data are stored in firbase database in order to authenticate"
     
-    },
-    {
-      "topic": "Forget password",
-    "description":" In order to change the password you can enter you email and the link to change passwords is send to your email account"
     }
     
   
